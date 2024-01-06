@@ -1,1 +1,2 @@
-# ProgTech2023
+# WUMPUS - 2023
+Progtech beadandó (2023)
